@@ -15,5 +15,5 @@ module.exports = {
       '2xl': '1536px',
     }
   },
-  plugins: [require("tailwindhtml-flips")],
+  plugins: [require("tailwind-lines-clamps")],
 }
